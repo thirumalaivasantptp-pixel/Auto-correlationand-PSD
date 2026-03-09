@@ -5,6 +5,7 @@ Write a program for Autocorrelation and PSD of signals in SCILAB and verify Wien
 # EQUIPMENTS Needed
 
 •	Computer with i3 Processor
+
 •	SCI LAB
 # THEORY:
 The Wiener-Khinchin theorem states that the power spectral density of a wide sense stationary random process is the Fourier transform of the corresponding autocorrelation function.
@@ -12,8 +13,8 @@ The Wiener-Khinchin theorem states that the power spectral density of a wide sen
 # Algorithm
 1.	Load or Define the Signal: Input your time-domain signal.
 2.	Compute Autocorrelation: Calculate the autocorrelation function of the signal.
-3.	Compute Power Spectral Density (PSD): Estimate the PSD of the signal, either directly using a method like Welch’s periodogram or by using the Fourier transform of the autocorrelation.
-4.	Plot Results: Visualize the autocorrelation function and PSD.
+3.	 Compute Power Spectral Density (PSD): Estimate the PSD of the signal, either directly using a method like Welch’s periodogram or by using the Fourier transform of the autocorrelation.
+4.	 	Plot Results: Visualize the autocorrelation function and PSD.
 # PROCEDURE
 
 •	Refer Algorithms and write code for the experiment.
